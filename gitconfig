@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fevsantos@gmail.com
+	name = Fernanda Santos
